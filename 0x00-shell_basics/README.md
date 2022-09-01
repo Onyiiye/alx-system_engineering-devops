@@ -1,1 +1,1 @@
-display current directory contents in a long format
+My first commit in a long format
